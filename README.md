@@ -1,4 +1,4 @@
-####Colletions of interview questions, including:
+####A Colletion of interview questions, including:
 #####	> [Data Structures & Algortithms](https://github.com/zz676/acing_sde_interviews/wiki/Data-Structures-&-Algortithms)
 #####	> [Java](https://github.com/zz676/acing_sde_interviews/wiki/Java)
 #####	> [Android](https://github.com/zz676/acing_sde_interviews/wiki/Android)
